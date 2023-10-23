@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\AssignmentForFullStack.API\\AssignmentForFullStack.API\\wwwroot\\images\\men.jpg",
+      "PackagePath": "staticwebassets\\images\\men.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AssignmentForFullStack.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AssignmentForFullStack.API.props",
+      "PackagePath": "build\\AssignmentForFullStack.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AssignmentForFullStack.API.props",
+      "PackagePath": "buildMultiTargeting\\AssignmentForFullStack.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AssignmentForFullStack.API.props",
+      "PackagePath": "buildTransitive\\AssignmentForFullStack.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

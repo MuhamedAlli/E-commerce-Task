@@ -1,0 +1,17 @@
+C:\Users\dell\source\repos\AssignmentForFullStack.API\AssignmentForFullStack.EF\bin\Debug\net6.0\AssignmentForFullStack.EF.deps.json
+C:\Users\dell\source\repos\AssignmentForFullStack.API\AssignmentForFullStack.EF\bin\Debug\net6.0\AssignmentForFullStack.EF.runtimeconfig.json
+C:\Users\dell\source\repos\AssignmentForFullStack.API\AssignmentForFullStack.EF\bin\Debug\net6.0\AssignmentForFullStack.EF.dll
+C:\Users\dell\source\repos\AssignmentForFullStack.API\AssignmentForFullStack.EF\bin\Debug\net6.0\AssignmentForFullStack.EF.pdb
+C:\Users\dell\source\repos\AssignmentForFullStack.API\AssignmentForFullStack.EF\bin\Debug\net6.0\AssignmentForFullStack.Core.dll
+C:\Users\dell\source\repos\AssignmentForFullStack.API\AssignmentForFullStack.EF\bin\Debug\net6.0\AssignmentForFullStack.Core.pdb
+C:\Users\dell\source\repos\AssignmentForFullStack.API\AssignmentForFullStack.EF\obj\Debug\net6.0\AssignmentForFullStack.EF.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\AssignmentForFullStack.API\AssignmentForFullStack.EF\obj\Debug\net6.0\AssignmentForFullStack.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\AssignmentForFullStack.API\AssignmentForFullStack.EF\obj\Debug\net6.0\AssignmentForFullStack.EF.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\AssignmentForFullStack.API\AssignmentForFullStack.EF\obj\Debug\net6.0\AssignmentForFullStack.EF.AssemblyInfo.cs
+C:\Users\dell\source\repos\AssignmentForFullStack.API\AssignmentForFullStack.EF\obj\Debug\net6.0\AssignmentForFullStack.EF.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\AssignmentForFullStack.API\AssignmentForFullStack.EF\obj\Debug\net6.0\AssignmentForFullStack.EF.csproj.CopyComplete
+C:\Users\dell\source\repos\AssignmentForFullStack.API\AssignmentForFullStack.EF\obj\Debug\net6.0\AssignmentForFullStack.EF.dll
+C:\Users\dell\source\repos\AssignmentForFullStack.API\AssignmentForFullStack.EF\obj\Debug\net6.0\refint\AssignmentForFullStack.EF.dll
+C:\Users\dell\source\repos\AssignmentForFullStack.API\AssignmentForFullStack.EF\obj\Debug\net6.0\AssignmentForFullStack.EF.pdb
+C:\Users\dell\source\repos\AssignmentForFullStack.API\AssignmentForFullStack.EF\obj\Debug\net6.0\AssignmentForFullStack.EF.genruntimeconfig.cache
+C:\Users\dell\source\repos\AssignmentForFullStack.API\AssignmentForFullStack.EF\obj\Debug\net6.0\ref\AssignmentForFullStack.EF.dll

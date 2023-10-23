@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "YvB3dsr42r7xouda1pt8R4bqo8DW9zxSyN3odYFRGyA=",
+  "Source": "AssignmentForFullStack.API",
+  "BasePath": "_content/AssignmentForFullStack.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AssignmentForFullStack.API\\wwwroot",
+      "Source": "AssignmentForFullStack.API",
+      "ContentRoot": "C:\\Users\\dell\\source\\repos\\AssignmentForFullStack.API\\AssignmentForFullStack.API\\wwwroot\\",
+      "BasePath": "_content/AssignmentForFullStack.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\dell\\source\\repos\\AssignmentForFullStack.API\\AssignmentForFullStack.API\\wwwroot\\images\\men.jpg",
+      "SourceId": "AssignmentForFullStack.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dell\\source\\repos\\AssignmentForFullStack.API\\AssignmentForFullStack.API\\wwwroot\\",
+      "BasePath": "_content/AssignmentForFullStack.API",
+      "RelativePath": "images/men.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\men.jpg"
+    }
+  ]
+}
